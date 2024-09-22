@@ -3,7 +3,7 @@ window.onload = function () {
 <header>
     <ul class="menu_ul">
         <li class="menu_tag_li">
-            <a class="menu_tag" href="Home.html">ArcadeHall</a> 
+            <a class="menu_tag" href="index.html">ArcadeHall</a> 
         </li>
         <li class="menu_li">
             <a href="FolderStructure.html">Folder Structure</a>
